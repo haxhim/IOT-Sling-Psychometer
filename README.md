@@ -101,7 +101,8 @@ Copy code
 
 <details>
 <summary><b>📊 Click to expand system flow</b></summary><br>
-
+  
+```yaml
 ┌─────────────────────┐
 │ Wet Bulb Sensor │
 └──────────┬──────────┘
@@ -113,9 +114,9 @@ Copy code
 ┌──────────┴──────────┐
 │ Dry Bulb Sensor │
 └──────────────────────┘
+```
 
-yaml
-Copy code
+
 
 </details>
 
@@ -190,11 +191,11 @@ Copy code
 └── README.md
 ```
 
-##🤝 Contributing
+## 🤝 Contributing
     Pull requests are welcome!
     For larger changes, open an issue first.
 
-##📄 License
+## 📄 License
     This project is licensed under MIT.
 
 <p align="center"> Made with ❤️ by <b>Hashim</b> </p> 
